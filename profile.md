@@ -16,7 +16,7 @@ Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <m
         [4/2022] Joined the Programming Models and Runtime Systems (PMRS) group in <a href="https://www.anl.gov">Argonne National Laboratory</a>. Became a member of the MPICH development team at ANL. 
     </li>
     <li>
-        [1/2022] Started my life as a PhD student in <a href="https://www.anl.gov">University of California, Riverside</a>. Became a member of the <a href="https://www.cs.ucr.edu/~chen/superlab/index.html">SuperLab</a> at UCR. 
+        [1/2022] Started my life as a PhD student in <a href="https://www.ucr.edu">University of California, Riverside</a>. Became a member of the <a href="https://www.cs.ucr.edu/~chen/superlab/index.html">SuperLab</a> at UCR. 
     </li>
 </ul>
 </div>

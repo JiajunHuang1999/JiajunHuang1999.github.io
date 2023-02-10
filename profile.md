@@ -2,5 +2,29 @@
 layout: page
 title: Profile
 ---
-Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the University of California, Riverside. He is supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html) in UCR and Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) in Argonne National Laboratory.
-He received his Bachelor's degree in Electronic Information Engineering from the University of Electronic Science and Technology of China (UESTC) and the University of Glasgow (Honors of the First Class) in 2021. He won the 1st Class Academic Scholarship, James Watt Innovative Talent Scholarship, UESTC Outstanding Student Scholarship, and Excellent Bachelor's Degree Thesis Award during his undergraduate study. He is a professional saxophone player, a professional table tennis player, and has mastered many other musical instruments. He joined the SuperLab in Winter 2022. His research interests include but are not limited to Distributed and Parallel Computing/System, High Performance Computing, and General Artificial Intelligence. He is currently doing an internship at Argonne National Laboratory.
+
+## Academic Profile
+Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <mark>University of California, Riverside</mark>. He is doing a long-term internship at <mark>Argonne National Laboratory</mark>. He is supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html) in UCR and Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) in Argonne National Laboratory. 
+
+### Educational Background
+- University of Glasgow, UK                 2017.09-2021.07
+BEng (Hons) Electronics and Electrical Engineering with Information Engineering
+Graduated with Honors of the First Class
+
+- UESTC (University of Electronic Science and Technology of China), China           2017.09-2021.07
+Bachelor of Engineering in Electronic Information Engineering
+
+### Selected Awards:
+- Dean's Distinguished Fellowship, (Highest in UCR) 
+- James Watt Innovative Talent Scholarship, (3%)
+- 1st Class Academic Scholarship, (3%)
+- UESTC Outstanding Student Scholarship, (5%) thrice 
+- Excellent bachelor’s degree thesis (3%)
+- Outstanding Individual of UESTC Summer Camp, twice
+- Glasgow Excellent Volunteer Certificate
+- Outstanding Individual of Summer Social Practice 
+
+### Research interests:
+- Distributed and Parallel Computing/System
+- High Performance Computing
+- General Artificial Intelligence.

@@ -45,6 +45,6 @@ Bachelor of Engineering in Electronic Information Engineering
 ### Research interests:
 - Distributed and Parallel Computing/System
 - High Performance Computing
-- General Artificial Intelligence.
+- General Artificial Intelligence
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=tt&d=RKFC0tf2HkUKuOKvsqRsBycAaOSTK6mnDby741hhPhI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

@@ -47,4 +47,4 @@ Bachelor of Engineering in Electronic Information Engineering
 - High Performance Computing
 - General Artificial Intelligence.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RKFC0tf2HkUKuOKvsqRsBycAaOSTK6mnDby741hhPhI&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=200&t=n&d=RKFC0tf2HkUKuOKvsqRsBycAaOSTK6mnDby741hhPhI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

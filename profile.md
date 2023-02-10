@@ -4,7 +4,7 @@ title: Profile
 ---
 
 ## Academic Profile
-Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <mark>University of California, Riverside</mark>. He is doing a long-term internship at <mark>Argonne National Laboratory</mark>. He is supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html) in UCR and Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) in Argonne National Laboratory. 
+Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year PhD student at the <mark>University of California, Riverside</mark> supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html). I am doing a long-term internship at <mark>Argonne National Laboratory</mark> supervised by Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo). I also closely work with Dr. [Xiaodong Yu](https://xiaodong-yu.github.io) and Dr. [Sheng Di](https://www.mcs.anl.gov/~shdi/) in ANL.
 
 <h3>News</h3>
 <div style="height: 160px; overflow: auto;">

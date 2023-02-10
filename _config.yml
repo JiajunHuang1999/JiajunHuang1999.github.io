@@ -1,6 +1,6 @@
 # Setup
-title: Beyond the boundaries
-description: Blogs
+title: 玄门杂谈(To understand everything)
+description: 玄之又玄，众妙之门。(Everything is from nothing and nothing is from everything.)
 url: https://jiajunhuang1999.github.io
 avatar: /jiajun.JPG
 paginate: 5
@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: None
   card: summary
 logo: logo.png
 social:
   name: Jiajun Huang(黄嘉俊)
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/
     - https://github.com/jiajunhuang1999
 google_site_verification: xxxxx
 lang: en

@@ -46,3 +46,7 @@ Bachelor of Engineering in Electronic Information Engineering
 - Distributed and Parallel Computing/System
 - High Performance Computing
 - General Artificial Intelligence.
+
+</div>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RKFC0tf2HkUKuOKvsqRsBycAaOSTK6mnDby741hhPhI"></script>
+</div>

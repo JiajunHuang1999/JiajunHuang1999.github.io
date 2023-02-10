@@ -7,7 +7,7 @@ title: Profile
 Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <mark>University of California, Riverside</mark>. He is doing a long-term internship at <mark>Argonne National Laboratory</mark>. He is supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html) in UCR and Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) in Argonne National Laboratory. 
 
 <h3>News</h3>
-<div style="height: 100px; overflow: auto;">
+<div style="height: 160px; overflow: auto;">
 <ul>
 	<li>
 		[12/2022] Attended <a href="https://sc22.supercomputing.org">SC22</a> as student volunteer in Dallas, Texas. Very happy to be part of the HPC community.
@@ -46,12 +46,3 @@ Bachelor of Engineering in Electronic Information Engineering
 - Distributed and Parallel Computing/System
 - High Performance Computing
 - General Artificial Intelligence.
-
-<div id="footer">
-	<div id="footer-text"></div>
-</div>
-	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=777777&w=487&t=tt&d=xeJu_Kwek6AfO5eDCKFQ1iDWjzFQPLT_dNcYY3WLmrY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=5b1717'></script>
-	<p><center> &copy; Jiajun Huang(黄嘉俊) </center></p>
-
-
-</div>

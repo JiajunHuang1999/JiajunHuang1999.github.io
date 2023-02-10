@@ -11,7 +11,7 @@ Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <m
 BEng (Hons) Electronics and Electrical Engineering with Information Engineering
 Graduated with Honors of the First Class
 
-- UESTC (University of Electronic Science and Technology of China), China           2017.09-2021.07
+- UESTC (University of Electronic Science and Technology of China), China     '2017.09-2021.07'
 Bachelor of Engineering in Electronic Information Engineering
 
 ### Selected Awards:

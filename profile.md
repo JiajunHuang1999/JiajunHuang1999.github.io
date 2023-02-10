@@ -8,12 +8,12 @@ Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <m
 
 ### Educational Background
 
-* University of Glasgow, UK  
+* <mark>University of Glasgow, UK</mark> 
 2017.09-2021.07                 
 BEng (Hons) Electronics and Electrical Engineering with Information Engineering
 Graduated with Honors of the First Class
 
-* UESTC (University of Electronic Science and Technology of China), China
+* <mark>UESTC (University of Electronic Science and Technology of China), China</mark>
 2017.09-2021.07
 Bachelor of Engineering in Electronic Information Engineering
 

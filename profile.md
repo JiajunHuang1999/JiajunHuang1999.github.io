@@ -7,11 +7,13 @@ title: Profile
 Mr. **Jiajun Huang(黄嘉俊)** is currently a second-year PhD student at the <mark>University of California, Riverside</mark>. He is doing a long-term internship at <mark>Argonne National Laboratory</mark>. He is supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html) in UCR and Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) in Argonne National Laboratory. 
 
 ### Educational Background
-- University of Glasgow, UK                 2017.09-2021.07
-BEng (Hons) Electronics and Electrical Engineering with Information Engineering
+* University of Glasgow, UK\  
+2017.09-2021.07\                 
+BEng (Hons) Electronics and Electrical Engineering with Information Engineering\
 Graduated with Honors of the First Class
 
-- UESTC (University of Electronic Science and Technology of China), China     '2017.09-2021.07'
+* UESTC (University of Electronic Science and Technology of China), China\
+2017.09-2021.07\
 Bachelor of Engineering in Electronic Information Engineering
 
 ### Selected Awards:

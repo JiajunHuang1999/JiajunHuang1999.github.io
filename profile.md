@@ -10,7 +10,7 @@ Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year PhD stu
 <div style="height: 160px; overflow: auto;">
 <ul>
 	<li>
-		[12/2022] Attended <a href="https://sc22.supercomputing.org">SC22</a> as student volunteer in Dallas, Texas. Very happy to be part of the HPC community.
+		[12/2022] Attended <a href="https://sc22.supercomputing.org">SC22</a> in Dallas, Texas as a student volunteer. Very happy to be part of the HPC community.
 	</li>
     <li>
         [4/2022] Joined the Programming Models and Runtime Systems (PMRS) group in <a href="https://www.anl.gov">Argonne National Laboratory</a>. Became a member of the MPICH development team at ANL. 

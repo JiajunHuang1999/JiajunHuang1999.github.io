@@ -48,7 +48,7 @@ Bachelor of Engineering in Electronic Information Engineering
 - General Artificial Intelligence
 
 ### Personal interests:
-- Music: :saxophone:Saxophone, Cucurbit flute(Hulusi), Bamboo flute(Dizi), Vertical bamboo flute(Xiao)   
+- Music: :saxophone: Saxophone, Cucurbit flute(Hulusi), Bamboo flute(Dizi), Vertical bamboo flute(Xiao)   
 - Sports: 🏓 Table tennis
 - Philosophy: Taoism(道教), Buddhism(佛教)
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=tt&d=RKFC0tf2HkUKuOKvsqRsBycAaOSTK6mnDby741hhPhI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

@@ -13,7 +13,7 @@ Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD 
 		[12/2022] Attended <a href="https://sc22.supercomputing.org">SC22</a> in Dallas, Texas as a student volunteer. Very happy to be part of the HPC community.
 	</li>
     <li>
-        [4/2022] Joined the Programming Models and Runtime Systems (PMRS) group in <a href="https://www.anl.gov">Argonne National Laboratory</a>. Became a member of the MPICH development team at ANL. 
+        [4/2022] Joined the Programming Models and Runtime Systems (PMRS) group in <a href="https://www.anl.gov">Argonne National Laboratory</a>. Became a member of the <a href="https://www.mpich.org">MPICH</a> development team at ANL. 
     </li>
     <li>
         [1/2022] Started my life as a PhD student in <a href="https://www.ucr.edu">University of California, Riverside</a>. Became a member of the <a href="https://www.cs.ucr.edu/~chen/superlab/index.html">SuperLab</a> at UCR. 
@@ -23,12 +23,12 @@ Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD 
 
 ### Educational Background
 
-* <mark>University of Glasgow, UK</mark>  
+* [<mark>University of Glasgow, UK</mark>](https://www.gla.ac.uk)  
 2017.09-2021.07  
 BEng (Hons) Electronics and Electrical Engineering with Information Engineering  
 Graduated with Honors of the First Class  
 
-* <mark>UESTC (University of Electronic Science and Technology of China), China</mark>   
+* [<mark>UESTC (University of Electronic Science and Technology of China), China</mark>](https://en.uestc.edu.cn)   
 2017.09-2021.07    
 Bachelor of Engineering in Electronic Information Engineering  
 

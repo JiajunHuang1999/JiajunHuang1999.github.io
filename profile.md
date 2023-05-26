@@ -9,6 +9,9 @@ Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD 
 <h3>News</h3>
 <div style="height: 160px; overflow: auto;">
 <ul>
+    <li>
+		[6/2023] Will present a poster at <a href="https://www.hpdc.org/2023/">HPDC2023</a> in Orlando, Florida. Looking foward to see you in <a href="https://fcrc.acm.org">FCRC2023</a>.
+	</li>
 	<li>
 		[12/2022] Attended <a href="https://sc22.supercomputing.org">SC22</a> in Dallas, Texas as a student volunteer. Very happy to be part of the HPC community.
 	</li>

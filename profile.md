@@ -32,6 +32,7 @@ Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD 
 * [<mark>University of California, Riverside</mark>](https://www.ucr.edu)  
 2022.01-2027.01  
 Ph.D. in Computer Science
+
 Dean's Distinguished Fellowship
 
 * [<mark>University of Glasgow, UK</mark>](https://www.gla.ac.uk)  

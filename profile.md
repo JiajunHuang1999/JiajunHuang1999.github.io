@@ -4,7 +4,7 @@ title: Profile
 ---
 
 ## Academic Profile
-Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD student at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html). I am doing a long-term internship at [<mark>Argonne National Laboratory</mark>](https://www.anl.gov) supervised by Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) and Dr. [Rajeev Thakur](https://web.cels.anl.gov/~thakur/). I am also guided by Dr. [Xiaodong Yu](https://xiaodong-yu.github.io) and Dr. [Sheng Di](https://www.mcs.anl.gov/~shdi/) in ANL.
+Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD student at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html). I am doing a long-term internship at [<mark>Argonne National Laboratory</mark>](https://www.anl.gov) supervised by Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) and Dr. [Rajeev Thakur](https://web.cels.anl.gov/~thakur/). I am also guided by Dr. [Xiaodong Yu](https://xiaodong-yu.github.io) and Dr. [Sheng Di](https://www.mcs.anl.gov/~shdi/) in ANL.  
 Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ&hl) to see my publications.
 <h3>News</h3>
 <div style="height: 160px; overflow: auto;">
@@ -31,7 +31,7 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 
 * [<mark>University of California, Riverside</mark>](https://www.ucr.edu)  
 2022.01-2027.01  
-Ph.D. in Computer Science
+Ph.D. in Computer Science  
 (Dean's Distinguished Fellowship)
 
 * [<mark>University of Glasgow, UK</mark>](https://www.gla.ac.uk)  

@@ -27,12 +27,17 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 </ul>
 </div>
 
+### Research interests:
+- Distributed and Parallel Computing/System
+- High Performance Computing
+- General Artificial Intelligence
+
 ### Educational Background
 
 * [<mark>University of California, Riverside</mark>](https://www.ucr.edu)  
 2022.01-2027.01  
 Ph.D. in Computer Science  
-(Dean's Distinguished Fellowship)
+Dean's Distinguished Fellowship
 
 * [<mark>University of Glasgow, UK</mark>](https://www.gla.ac.uk)  
 2017.09-2021.07  
@@ -52,11 +57,6 @@ Bachelor of Engineering in Electronic Information Engineering
 - Outstanding Individual of UESTC Summer Camp, twice
 - Glasgow Excellent Volunteer Certificate
 - Outstanding Individual of Summer Social Practice 
-
-### Research interests:
-- Distributed and Parallel Computing/System
-- High Performance Computing
-- General Artificial Intelligence
 
 ### Personal interests:
 - Music: 🎷 Saxophone, Cucurbit flute(Hulusi), Bamboo flute(Dizi), Vertical bamboo flute(Xiao)   

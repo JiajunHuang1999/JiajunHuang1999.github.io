@@ -9,6 +9,16 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 <h3>News</h3>
 <div style="height: 160px; overflow: auto;">
 <ul>
+    
+    <li>
+		[11/2023] Our travel grant for participating in the ACM SRC at <a href="https://sc23.supercomputing.org">SC23</a> has been granted!
+	</li>
+    <li>
+		[11/2023] Will present a poster at <a href="https://sc23.supercomputing.org">SC2023</a> in Denver, CO. Looking foward to see you at <a href="https://sc23.supercomputing.org">SC2023</a>.
+	</li>
+    <li>
+		[10/2023] Our NSF Travel Grant application for the <a href="https://clustercomp.org/2023/">IEEE Cluster 2023 conference</a> has been ACCEPTED!
+	</li>
     <li>
 		[10/2023] Will present a paper at <a href="https://clustercomp.org/2023/">CLUSTER2023</a> in Santa Fe, New Mexico. Looking foward to see you at <a href="https://fcrc.acm.org">CLUSTER2023</a>.
 	</li>

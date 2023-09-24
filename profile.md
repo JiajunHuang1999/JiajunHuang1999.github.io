@@ -59,6 +59,8 @@ Graduated with Honors of the First Class
 Bachelor of Engineering in Electronic Information Engineering  
 
 ### Selected Awards:
+- ACM SRC Travel Grant for SC23
+- NSF Student Travel grant for IEEE Cluster 2023
 - Dean's Distinguished Fellowship, (Highest in UCR) 
 - James Watt Innovative Talent Scholarship, (3%)
 - 1st Class Academic Scholarship, (3%)
@@ -67,6 +69,10 @@ Bachelor of Engineering in Electronic Information Engineering
 - Outstanding Individual of UESTC Summer Camp, twice
 - Glasgow Excellent Volunteer Certificate
 - Outstanding Individual of Summer Social Practice 
+
+### Academic Services:
+SC21 Student Volunteer
+SC22 Student Volunteer
 
 ### Personal interests:
 - Music: 🎷 Saxophone, Cucurbit flute(Hulusi), Bamboo flute(Dizi), Vertical bamboo flute(Xiao)   

@@ -74,8 +74,8 @@ Bachelor of Engineering in Electronic Information Engineering
 - Outstanding Individual of Summer Social Practice 
 
 ### Academic Services:
-SC21 Student Volunteer
-SC22 Student Volunteer
+- SC21 Student Volunteer
+- SC22 Student Volunteer
 
 ### Personal interests:
 - Music: 🎷 Saxophone, Cucurbit flute(Hulusi), Bamboo flute(Dizi), Vertical bamboo flute(Xiao)   

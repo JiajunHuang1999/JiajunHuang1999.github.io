@@ -59,6 +59,7 @@ Graduated with Honors of the First Class
 Bachelor of Engineering in Electronic Information Engineering  
 
 ### Selected Awards:
+- First Place at ACM Student Research Competition (Graduate) in SC23 
 - ACM SRC Travel Grant for SC23
 - NSF Student Travel grant for IEEE Cluster 2023
 - Dean's Distinguished Fellowship, (Highest in UCR) 

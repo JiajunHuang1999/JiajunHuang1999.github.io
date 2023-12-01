@@ -4,12 +4,14 @@ title: Profile
 ---
 
 ## Academic Profile
-Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD candidate at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html). I am doing a long-term internship at [<mark>Argonne National Laboratory</mark>](https://www.anl.gov) supervised by Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo) and Dr. [Rajeev Thakur](https://web.cels.anl.gov/~thakur/). I am also mentored by Dr. [Xiaodong Yu](https://xiaodong-yu.github.io) and Dr. [Sheng Di](https://www.mcs.anl.gov/~shdi/) in ANL.  
+Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a second-year CS PhD candidate at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html). I am doing a long-term internship at [<mark>Argonne National Laboratory</mark>](https://www.anl.gov) supervised by Dr. [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo), Dr. [Sheng Di](https://www.mcs.anl.gov/~shdi/), Dr. [Rajeev Thakur](https://web.cels.anl.gov/~thakur/), and Dr. [Franck Cappello](https://www.anl.gov/profile/franck-cappello). I am also mentored by Dr. [Xiaodong Yu](https://xiaodong-yu.github.io) at [Stevens Institute of Technology](https://www.stevens.edu).  
 Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ&hl) to see my publications. My email address is jhuan380(at)ucr.edu. 
 <h3>News</h3>
 <div style="height: 160px; overflow: auto;">
 <ul>
-    
+    <li>
+		[11/2023] Won the <a href="https://sc23.supercomputing.org/program/awards/">First Place Award</a> at ACM Student Research Competition (Graduate) in SC23!
+	</li>
     <li>
 		[11/2023] Our travel grant for participating in the ACM SRC at <a href="https://sc23.supercomputing.org">SC23</a> has been granted!
 	</li>
@@ -59,7 +61,7 @@ Graduated with Honors of the First Class
 Bachelor of Engineering in Electronic Information Engineering  
 
 ### Selected Awards:
-- First Place at ACM Student Research Competition (Graduate) in SC23 
+- First Place Award at ACM Student Research Competition (Graduate) in SC23 
 - ACM SRC Travel Grant for SC23
 - NSF Student Travel grant for IEEE Cluster 2023
 - Dean's Distinguished Fellowship, (Highest in UCR) 

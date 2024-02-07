@@ -9,6 +9,9 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 <h3>News</h3>
 <div style="height: 160px; overflow: auto;">
 <ul>
+	<li>
+		[1/2024] Our paper <a href="https://arxiv.org/abs/2304.03890"><em>"An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression"</em></a> has been accepted by <a href="https://www.ipdps.org">IPDPS2024</a>. Looking foward to see you in San Francisco, California.
+	</li>
     <li>
 		[11/2023] Won the <a href="https://sc23.supercomputing.org/program/awards/">First Place Award</a> at ACM Student Research Competition (Graduate) in SC23!
 	</li>

@@ -4,10 +4,10 @@ title: Profile
 ---
 
 ## Academic Profile
-Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a third-year CS PhD candidate at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html). 
+Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a third-year CS PhD candidate at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html).
 Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ&hl) to see my publications. My email address is jhuan380(at)ucr.edu. 
 <h3>News</h3>
-<div style="height: 160px; overflow: auto;">
+<div style="height: 200px; overflow: auto;">
 <ul>
 	<li>
 		[11/2024] Will present our paper "hZCCL: Accelerating Collective Communication with Co-Designed Homomorphic Compression" at <a href="https://sc24.supercomputing.org">SC2024</a> in Atlanta, Georgia.
@@ -53,7 +53,10 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 
 ### Research interests:
 - Distributed and Parallel Computing/System
-
+- High Performance Computing
+- Collective Communication
+- Data compression
+- General Artificial Intelligence
 ### Educational Background
 
 * [<mark>University of California, Riverside</mark>](https://www.ucr.edu)  

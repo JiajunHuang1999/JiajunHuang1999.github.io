@@ -10,6 +10,18 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 <div style="height: 160px; overflow: auto;">
 <ul>
 	<li>
+		[11/2024] Will present our paper "hZCCL: Accelerating Collective Communication with Co-Designed Homomorphic Compression" at <a href="https://sc24.supercomputing.org">SC2024</a> in Atlanta, Georgia.
+	</li>
+	<li>
+		[9/2024] Will present our paper "FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance" at <a href="https://clustercomp.org/2024/">CLUSTER2024</a> in Kobe, Japan.
+	</li>
+	<li>
+		[6/2024] Presented our paper <a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656636"><em>"gZCCL: Compression-Accelerated Collective Communication Framework for GPU Clusters"</em></a> at <a href="https://ics2024.github.io">ICS2024</a> in Kyoto, Japan.
+	</li>
+	<li>
+		[5/2024] Presented our paper <a href="https://ieeexplore.ieee.org/abstract/document/10579265"><em>"An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression"</em></a> at <a href="https://www.ipdps.org">IPDPS2024</a> in San Francisco, California.
+	</li>
+	<li>
 		[1/2024] Our paper <a href="https://arxiv.org/abs/2304.03890"><em>"An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression"</em></a> has been accepted by <a href="https://www.ipdps.org">IPDPS2024</a>. Looking foward to see you in San Francisco, California.
 	</li>
     <li>

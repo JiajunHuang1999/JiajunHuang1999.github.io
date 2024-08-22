@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Jiajun Huang(黄嘉俊)
+  name: Jiajun Huang (黄嘉俊)
   links:
     - https://twitter.com/
     - https://github.com/jiajunhuang1999
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Jiajun Huang(黄嘉俊)
+  name: Jiajun Huang (黄嘉俊)
   url: https://github.com/jiajunhuang1999/
   email: jhuan380@ucr.edu

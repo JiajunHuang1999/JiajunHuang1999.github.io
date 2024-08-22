@@ -4,7 +4,7 @@ title: Profile
 ---
 
 ## Academic Profile
-Hi, my name is **Jiajun Huang(黄嘉俊)**. I am currently a third-year CS PhD candidate at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html).
+Hi, my name is **Jiajun Huang (黄嘉俊)**. I am currently a third-year CS PhD candidate at the [<mark>University of California, Riverside</mark>](https://www.ucr.edu) supervised by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/people.html).
 Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ&hl) to see my publications. My email address is jhuan380(at)ucr.edu. 
 <h3>News</h3>
 <div style="height: 200px; overflow: auto;">

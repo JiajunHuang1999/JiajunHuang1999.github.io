@@ -51,7 +51,7 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 </ul>
 </div>
 
-### Research interests:
+### Research interests
 - Distributed and Parallel Computing/System
 - High Performance Computing
 - Collective Communication
@@ -73,7 +73,7 @@ Graduated with Honors of the First Class
 2017.09-2021.07    
 Bachelor of Engineering in Electronic Information Engineering  
 
-### Selected Awards:
+### Selected Awards
 - First Place Award at ACM Student Research Competition (Graduate) in SC23 
 - ACM SRC Travel Grant for SC23
 - NSF Student Travel grant for IEEE Cluster 2023
@@ -86,11 +86,39 @@ Bachelor of Engineering in Electronic Information Engineering
 - Glasgow Excellent Volunteer Certificate
 - Outstanding Individual of Summer Social Practice 
 
-### Academic Services:
+
+<h3>Talks & Presentations</h3>
+<div style="height: 200px; overflow: auto;">
+<ul>
+	<li>
+		[6/2024] Accelerating Collective Communication with Error-Bounded Lossy Compression, Invited talk, RIKEN Center for Computational Science (R-CCS), Tokyo, Japan
+	</li>
+	<li>
+		[6/2024] Accelerating Collective Communication with Error-Bounded Lossy Compression, Invited talk, CASS Community MPICH BoF, Online
+	</li>
+	<li>
+		[6/2024] gZCCL: Compression-Accelerated Collective Communication Framework for GPU Clusters, Paper presentation, ICS '24, Kyoto, Japan
+	</li>
+	<li>
+		[5/2024] An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression, Paper presentation, IPDPS '24, San Francisco, California, USA
+	</li>
+	<li>
+		[11/2023] Accelerating Collective Communications with Lossy Compression on GPU, Poster presentation, SC '23, Denver, Colorado, USA
+	</li>
+	<li>
+		[10/2023] PiP-MColl: Process-in-Process-based Multi-object MPI Collectives, Paper presentation, CLUSTER '23, Santa Fe, New Mexico, USA
+	</li>
+	<li>
+		[6/2023] Accelerating MPI Collectives with Process-in-Process-based Multi-object Techniques, Poster presentation, HPDC '23, Orlando, Florida, USA
+	</li>
+</ul>
+</div>
+
+### Academic Services
 - SC21 Student Volunteer
 - SC22 Student Volunteer
 
-### Personal interests:
+### Personal interests
 - Music: 🎷 Saxophone, Cucurbit flute (Hulusi), Bamboo flute (Dizi), Vertical bamboo flute (Xiao)   
 - Sports: 🏓 Table tennis
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=tt&d=RKFC0tf2HkUKuOKvsqRsBycAaOSTK6mnDby741hhPhI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

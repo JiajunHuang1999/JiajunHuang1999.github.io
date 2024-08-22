@@ -55,7 +55,7 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 - Distributed and Parallel Computing/System
 - High Performance Computing
 - Collective Communication
-- Data compression
+- Data Compression
 - General Artificial Intelligence
 ### Educational Background
 

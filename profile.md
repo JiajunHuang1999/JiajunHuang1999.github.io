@@ -115,9 +115,9 @@ Bachelor of Engineering in Electronic Information Engineering
 </div>
 
 ### Academic Services
--Session Chair: CLUSTER '24
--Reviewers & Subreviewers: IEEE’s Transactions on Computers, CLUSTER '23, IPDPS '23, IPDPS '24, CCGRID '24, HiPC '24
--Student Volunteers: SC '21, SC '22
+- Session Chair: CLUSTER '24
+- Reviewers & Subreviewers: IEEE’s Transactions on Computers, CLUSTER '23, IPDPS '23, IPDPS '24, CCGRID '24, HiPC '24
+- Student Volunteers: SC '21, SC '22
 
 ### Personal interests
 - Music: 🎷 Saxophone, Cucurbit flute (Hulusi), Bamboo flute (Dizi), Vertical bamboo flute (Xiao)   

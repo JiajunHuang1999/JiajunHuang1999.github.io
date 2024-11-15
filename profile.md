@@ -60,7 +60,7 @@ Click [<mark>Here</mark>](https://scholar.google.com/citations?user=lv5EK6AAAAAJ
 ### Educational Background
 
 * [<mark>University of California, Riverside</mark>](https://www.ucr.edu)  
-2022.01-2025.06  
+2022.01-2027.01  
 Ph.D. in Computer Science  
 Dean's Distinguished Fellowship
 
